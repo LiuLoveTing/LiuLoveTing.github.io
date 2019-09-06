@@ -4,7 +4,7 @@ title: "Fast&Furious"
 author: "Mark"
 categories: life
 tags: [life]
-image: speed.jpeg
+image: speed.jpg
 ---
 
 # 速度与激情：特别行动 Fast&Furious
