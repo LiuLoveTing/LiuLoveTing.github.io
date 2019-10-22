@@ -24,6 +24,45 @@
 			</item>
 		
 			<item>
+				<title>Old Photo</title>
+				
+					<dc:creator>Mark</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;旧照片-记录即拥有-old-photo-record&quot;&gt;旧照片 记录即拥有 Old Photo Record&lt;/h1&gt;
+&lt;p&gt;周末闲散在家 无事可做
+想起来整理相册
+好多拍完就遗忘了的相片
+加上滤镜 修修改改
+成果还是令人满意的
+&lt;img src=&quot;/assets/img/1910/old1.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old2.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old3.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old4.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old5.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old6.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old7.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old8.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old9.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old10.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old11.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old12.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old13.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old14.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old15.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old16.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old17.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old18.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old19.jpeg&quot; alt=&quot;Codes&quot; /&gt;
+&lt;img src=&quot;/assets/img/1910/old20.jpeg&quot; alt=&quot;Codes&quot; /&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 19 Oct 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/life/old-pic.html</link>
+				<guid isPermaLink="true">http://localhost:4000/life/old-pic.html</guid>
+			</item>
+		
+			<item>
 				<title>National Day</title>
 				
 					<dc:creator>Mark</dc:creator>
@@ -165,24 +204,6 @@
 				<pubDate>Sun, 28 Jul 2019 00:00:00 +0800</pubDate>
 				<link>http://localhost:4000/life/the-lion-king.html</link>
 				<guid isPermaLink="true">http://localhost:4000/life/the-lion-king.html</guid>
-			</item>
-		
-			<item>
-				<title>né zhā</title>
-				
-					<dc:creator>Mark</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;哪吒-né-zhā&quot;&gt;哪吒 né zhā&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/1907/nezha1.jpg&quot; alt=&quot;Codes&quot; /&gt;
-&lt;img src=&quot;/assets/img/1907/nezha2.jpg&quot; alt=&quot;Codes&quot; /&gt;
-天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？&lt;strong&gt;2019年7月27日。&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/life/nezha.html</link>
-				<guid isPermaLink="true">http://localhost:4000/life/nezha.html</guid>
 			</item>
 		
 	</channel>
